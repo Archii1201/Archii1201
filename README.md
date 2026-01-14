@@ -46,7 +46,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ## 📌 Featured Projects
 
 ### 🔹 Adaptive Congestion Control System  
-**(GitHub Link)**  
+**([GitHub Link](https://github.com/henil-suchak/Adaptive-Congestion-Control))**  
 - Designed a congestion control mechanism using **flow-level network metrics**.  
 - Applied **Deep Learning techniques** to predict congestion and adapt transmission behavior.  
 - Focused on **Computer Networks performance optimization** and system-level analysis.  
@@ -55,7 +55,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 Recipe Sharing Platform  
-**(GitHub Link)**  
+**([GitHub Link](https://github.com/Archii1201/java_project))**  
 - Built a **backend-only RESTful web application** for recipe creation, updates, and interactions.  
 - Implemented **JWT-based authentication** and **role-based access control (User/Admin)**.  
 - Used **Spring Data JPA & Hibernate** for ORM with relational entities:
@@ -68,7 +68,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 Catering Management System  
-**(GitHub Link)**  
+**([GitHub Link](https://github.com/Archii1201/CMS_PROJECT))**  
 - Developed a role-based system with **Chef** and **Customer** accounts.  
 - Implemented:
   - Authentication & profile management  
@@ -81,7 +81,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 CodeVaultt  
-**(GitHub Link)**  
+**([GitHub Link](https://github.com/JasmitaVekariya/GitHub_Clone))**  
 - Built a **GitHub-inspired version control and collaboration platform**.  
 - Implemented a **custom version control system** with CLI commands:
   - `init`, `add`, `commit`, `push`, `pull`, `revert`  
@@ -94,7 +94,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 EcoTrack – Carbon Footprint Calculator  
-**(GitHub Link)**  
+**([GitHub Link](https://github.com/henil-suchak/EcoTrack_MVC))**  
 - Built a sustainability-focused web app to **track and analyze personal carbon footprints**.  
 - Implemented authentication, activity logging, and dashboards.  
 - Designed modular logging for:
