@@ -46,7 +46,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ## 📌 Featured Projects
 
 ### 🔹 Adaptive Congestion Control System  
-**([GitHub Link](https://github.com/henil-suchak/Adaptive-Congestion-Control))**  
+**([GitHub Link](https://github.com/Archii1201/Adaptive-Congestion-Control))**  
 - Designed a congestion control mechanism using **flow-level network metrics**.  
 - Applied **Deep Learning techniques** to predict congestion and adapt transmission behavior.  
 - Focused on **Computer Networks performance optimization** and system-level analysis.  
