@@ -81,7 +81,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 CodeVaultt  
-**([GitHub Link](https://github.com/JasmitaVekariya/GitHub_Clone))**  
+**([GitHub Link](https://github.com/Archii1201/GitHub_Clone))**  
 - Built a **GitHub-inspired version control and collaboration platform**.  
 - Implemented a **custom version control system** with CLI commands:
   - `init`, `add`, `commit`, `push`, `pull`, `revert`  
@@ -94,7 +94,7 @@ I enjoy building **secure, scalable backend applications**, working with **REST 
 ---
 
 ### 🔹 EcoTrack – Carbon Footprint Calculator  
-**([GitHub Link](https://github.com/henil-suchak/EcoTrack_MVC))**  
+**([GitHub Link](https://github.com/Archii1201/EcoTrack_MVC))**  
 - Built a sustainability-focused web app to **track and analyze personal carbon footprints**.  
 - Implemented authentication, activity logging, and dashboards.  
 - Designed modular logging for:
