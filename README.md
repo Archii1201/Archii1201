@@ -129,11 +129,12 @@
 - ✅ [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/archii_1201/)
 
 ---
+
 ## 📈 GitHub Stats
 
-![Archi's Stats](https://github-readme-stats.vercel.app/api?username=Archii1201&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archii1201&layout=compact&hide_border=true)
+![Archi's Stats](https://streak-stats.demolab.com?user=Archii1201&hide_border=true)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Archii1201&theme=default)
 ---
 
 ## 📫 Connect With Me
