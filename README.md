@@ -138,10 +138,10 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: 1201archii@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/archi-patel-765aa2350/  
-- 🌐 GitHub: https://github.com/Archii1201  
-
+[![Email](https://img.shields.io/badge/Email-1201archii@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1201archii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archi_Patel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-patel-765aa2350/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-archii__1201-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/archii_1201/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-vin5.vercel.app/)
 ---
 
 ⭐ Always learning, building, and improving backend systems.
