@@ -4,7 +4,6 @@
 🔧 Building secure REST APIs with Spring Boot & Django  
 🧠 350+ DSA problems solved on LeetCode  
 🚀 Seeking backend / software engineering internships  
-📍 Ahmedabad, India  
 🌐 Portfolio: [portfolio-vin5.vercel.app](https://portfolio-vin5.vercel.app/)
 
 🔭 Currently building: AutoML Query Optimizer  
@@ -122,12 +121,12 @@
 ---
 
 ## 📊 Coding Profile
-- ✅ Solved **300+ Data Structures & Algorithms problems**  
+- ✅ Solved **350+ Data Structures & Algorithms problems**  
 - Strong foundation in:
   - Arrays, Strings, Trees, Graphs  
   - Dynamic Programming  
   - Recursion & Backtracking  
-- 🔗 LeetCode: https://leetcode.com/u/archii_1201/  
+- ✅ [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/archii_1201/)
 
 ---
 
