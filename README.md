@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Archi Patel
 
 🎓 Computer Science Student  
-🌐 Portfolio: https://Archi  
+🌐 Portfolio:[ https://Archi](https://portfolio-vin5.vercel.app/)  
 
 I enjoy building **secure, scalable backend applications**, working with **REST APIs**, and exploring how **network-level behavior and system design** impact real-world software systems.
 
