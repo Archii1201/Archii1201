@@ -1,45 +1,48 @@
-# 👋 Hi, I'm Archi Patel
+## 👋 Hi, I'm Archi Patel
 
-🎓 Computer Science Student  
-🌐 Portfolio:[ https://Archi](https://portfolio-vin5.vercel.app/)  
+🎓 Final-year CS Student | Backend Developer  
+🔧 Building secure REST APIs with Spring Boot & Django  
+🧠 350+ DSA problems solved on LeetCode  
+🚀 Seeking backend / software engineering internships  
+📍 Ahmedabad, India  
+🌐 Portfolio: [portfolio-vin5.vercel.app](https://portfolio-vin5.vercel.app/)
 
-I enjoy building **secure, scalable backend applications**, working with **REST APIs**, and exploring how **network-level behavior and system design** impact real-world software systems.
-
+🔭 Currently building: AutoML Query Optimizer  
+📚 Currently learning: System Design & Microservices
 ---
 
-## 🧑‍💻 Languages
-- Java  
-- Python  
-- C++  
-- C  
-- JavaScript (basic)
+## 🧑‍💻 Tech Stack
 
----
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## ⚙️ Backend & Frameworks
-- Spring Boot, Spring Framework  
-- Spring Security, JWT Authentication  
-- Spring Data JPA, Hibernate  
-- Django (Class-Based Views, Authentication)  
-- Node.js, Express.js (basic)  
-- React.js (basic)  
-- RESTful API Design  
+**Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-## 🗄️ Databases
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- SQLite  
-- phpMyAdmin  
-
----
-
-## 🛠️ Tools & Platforms
-- Git & GitHub  
-- Postman, Thunder Client (API Testing)  
-- AWS (basic usage)  
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
