@@ -125,7 +125,8 @@
 - Strong foundation in:
   - Arrays, Strings, Trees, Graphs  
   - Dynamic Programming  
-  - Recursion & Backtracking  
+  - Recursion & Backtracking
+  - binary search
 - ✅ [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/archii_1201/)
 
 ---
